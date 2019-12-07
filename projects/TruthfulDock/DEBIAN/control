@@ -1,0 +1,10 @@
+Package: com.exoticswingset.truthfuldock
+Name: TruthfulDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ExoticSwingset
+Author: ExoticSwingset
+Section: Tweaks
+Version: 1.0
+Installed-Size: 264
