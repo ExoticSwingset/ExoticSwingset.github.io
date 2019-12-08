@@ -3,6 +3,7 @@ Name: TruthfulDock
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
+Depiction: https://exoticswingset.github.io/depictions/TruthfulDock.html
 Maintainer: ExoticSwingset
 Author: ExoticSwingset
 Section: Tweaks
