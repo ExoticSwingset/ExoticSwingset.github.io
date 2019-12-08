@@ -1,0 +1,10 @@
+Package: com.exoticswingset.truthfulfolders
+Name: TruthfulFolders
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ExoticSwingset
+Author: ExoticSwingset
+Section: Tweaks
+Version: 0.0.1-6+debug
+Installed-Size: 264
