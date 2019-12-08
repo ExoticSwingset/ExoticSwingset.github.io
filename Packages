@@ -6,9 +6,9 @@ Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfuldock_1.0_iphoneos-arm.deb
 Size: 7212
-MD5sum: 890e1afe75732ffb8a02ade75af67ba3
-SHA1: 5fb331f602a0ebb9a9ed2d409b0ac043b1df138a
-SHA256: 5fdfd7a1b3158ae1c05994699f9fa771197dc9a083884d22c7ae5d7319acfc48
+MD5sum: e175b2683053a9ef0faceffb40575da9
+SHA1: 5d514aa5d04ec162a98cedb50e0c78a6d4d58e8b
+SHA256: 2ff966fac256b326746ed01b13c07d9005b36f86611e931e056ea0d05200cd8f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -16,16 +16,16 @@ Depiction: https://exoticswingset.github.io/depictions/TruthfulDock.html
 Name: TruthfulDock
 
 Package: com.exoticswingset.truthfulfolders
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: ExoticSwingset
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.exoticswingset.truthfulfolders_1.0_iphoneos-arm.deb
-Size: 7786
-MD5sum: bab0f7d344e9c136561aeb08c666c1f5
-SHA1: 188bfb4d039a6a272e5628e8f7ea83e47b00a390
-SHA256: f066e932bfa9a5621176e218149015c925b78e6beac0afc2e7527cf0152f3c3e
+Filename: ./debs/com.exoticswingset.truthfulfolders_1.1_iphoneos-arm.deb
+Size: 9120
+MD5sum: 7a23dc9c0f3c245d7d51999236d29928
+SHA1: 28c69b12876d9bb706d814e792c5e06e9ebf6bff
+SHA256: 0297843a44029c16cbeec6ae737876578e238249a6426c64522a9198b8c14966
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
