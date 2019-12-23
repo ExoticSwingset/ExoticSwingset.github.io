@@ -1,0 +1,11 @@
+Package: com.exoticswingset.stopastupidthief
+Name: StopAStupidThief
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depiction: https://exoticswingset.github.io/depictions/StopAStupidThief.html
+Maintainer: ExoticSwingset
+Author: ExoticSwingset
+Section: Tweaks
+Version: 1.0
+Installed-Size: 200
