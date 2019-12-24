@@ -3,7 +3,7 @@ Name: CCStatusShush
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Depiction: https;//exoticswingset.github.io/depictions/CCStatusShush.html
+Depiction: https://exoticswingset.github.io/depictions/CCStatusShush.html
 Maintainer: ExoticSwingset
 Author: ExoticSwingset
 Section: Tweaks
