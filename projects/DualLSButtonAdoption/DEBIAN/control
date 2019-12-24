@@ -1,0 +1,11 @@
+Package: com.exoticswingset.duallsbuttonadoption
+Name: DualLSButtonAdoption
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depiction: https://exoticswingset.github.io/depictions/DualLSButtonAdoption.html
+Maintainer: ExoticSwingset
+Author: ExoticSwingset
+Section: Tweaks
+Version: 1.0
+Installed-Size: 104

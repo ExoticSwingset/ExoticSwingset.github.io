@@ -1,3 +1,20 @@
+Package: com.exoticswingset.duallsbuttonadoption
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ExoticSwingset
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.exoticswingset.duallsbuttonadoption_1.0_iphoneos-arm.deb
+Size: 4184
+MD5sum: 595b21c32d6e365412d92b1b4d2a8b1c
+SHA1: 4c374fb96a353b023fbe179633a5173d6fb8b1a2
+SHA256: 0515bbf136802a6d2eec416f1d33edb1ea778127d309b9835281a3aaf0008ba8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ExoticSwingset
+Depiction: https://exoticswingset.github.io/depictions/DualLSButtonAdoption.html
+Name: DualLSButtonAdoption
+
 Package: com.exoticswingset.dualsbadoption
 Version: 1.0
 Architecture: iphoneos-arm
@@ -6,9 +23,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.dualsbadoption_1.0_iphoneos-arm.deb
 Size: 4388
-MD5sum: d08a92d2aec9b5b15e6024da8e70a821
-SHA1: b2ef8afaa8af9056e4d838e44d1be7d61daf2100
-SHA256: 293fbf8346857c6595ec27325fdea3d8946fe92927a9c6f9f251b11c44ae56ca
+MD5sum: 51a3bc80f6f2032657ac8bcdf797f179
+SHA1: 647ef840c70a01dde6cb8984c3ee5442875a217c
+SHA256: 2658d31a5963ee0c92a8694f8da2af75b64b5ddc85033e136c12658c71a06fb8
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -23,9 +40,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.stopastupidthief_1.1_iphoneos-arm.deb
 Size: 8706
-MD5sum: 5daa63dce4135c79eee9b21ed2d4fcaa
-SHA1: 6661b3c09c3115e24665d01b820f600139710b77
-SHA256: c1d2fa52052ba9bd4b73b18ab42feaea44bfb22c461a1a5a984d216cf13a3773
+MD5sum: ababaab5987fba95909db9fd56906220
+SHA1: d7d664cdf94b9eb74ff2bc3d269a5f11d973f4fb
+SHA256: 093c233941ff5481268a570a90d89d24ed0d1ee92070fa5950ebe9c3e25e2f1d
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -40,9 +57,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulbbtdisable_1.0_iphoneos-arm.deb
 Size: 6332
-MD5sum: a58ddf12e92aa53f4d3f544772aadc8d
-SHA1: d2179b8cb74ba07ea8d52afafbd5c02a8ab0c665
-SHA256: adb8979e4ab39618433d91ecfa81c96095328065a737e7aba1fc26dffcbcd450
+MD5sum: 3a55ece6d450d41681a4d903ac99cbc1
+SHA1: b863b981067eab894afcb1acdfb852d7529e9427
+SHA256: 89781b43a1e5babdd587fa6eb71808a9e72392a6b74f4bfbe7bd25bec5d211b8
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -57,9 +74,9 @@ Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfuldock_1.0_iphoneos-arm.deb
 Size: 7204
-MD5sum: 1db3d93e700df786673c4587c0243717
-SHA1: 349ede1626d6352a0154ea7fd9ed25518d23c99f
-SHA256: 2e86e35dcc477d936e3e5c09dd9d189d31c12582d183660bc0d1c96991fba8ba
+MD5sum: d41575f8431ea86639db32dc20a8192d
+SHA1: 4becf134b78d1f4462ac1f0f9e65fac40ffeb88e
+SHA256: cbff2cea130cd92885c5763ee4bbb13b85f2cd26afd80f7eb8d4209c0eaf6c23
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -74,9 +91,9 @@ Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulfolders_1.1_iphoneos-arm.deb
 Size: 9120
-MD5sum: 963af0f9cb46682597514319c57d0454
-SHA1: 3ca94223b62af1063c2bbef1efa6ddcccb9ff75c
-SHA256: 0f4b35d2c71950b78b59bab25afd592eeec12e2fc05326f133418b9115cd59ff
+MD5sum: 9b8679a0663d7967b8a1154cc608da40
+SHA1: b0f0f0deaf0c409df03bdb48dd780b7689e8663a
+SHA256: 2dd6d2edff50688fc8e676b424774578df9e43fd530254943f084a69c641d65d
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -91,9 +108,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulwifidisable_1.0_iphoneos-arm.deb
 Size: 6006
-MD5sum: 834432c46cdc1a2fe2b503d400b87c78
-SHA1: c995d32ff945db33affb86472984396013bae54d
-SHA256: 8fcb8581f6524215b299b5f138589fd6577294962e3367076a624a280f8dd8d0
+MD5sum: 93acb95159bae568b2a83d36b6dbfb7f
+SHA1: d6b01525974d63b3bfd7935c12d983c468f459a2
+SHA256: 197a09d5ef2a1e961dbcea32ecf360bccf8f5f3321aeed81bfd516c6bbe8dafa
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
