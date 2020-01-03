@@ -6,9 +6,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.ccstatusshush_1.0_iphoneos-arm.deb
 Size: 7086
-MD5sum: 6267a0e312df36ac250941ad821f28a8
-SHA1: c9419b34f304b1391bb05c3110020066ce5c3f9e
-SHA256: c7ae10ff9c683227c13da27a1d0aebbbdc82bbec5df633c9459c4cb581209301
+MD5sum: 0cf91cbc335d186f0638a6b50685df85
+SHA1: 7b41e90160c98b08dd4a7c96f17c148be703bbab
+SHA256: 89a65b4028bd83fb3457d195b07dbe760fb61932d8ac9bebfd74beb570dc2dca
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -23,9 +23,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.duallsbuttonadoption_1.0_iphoneos-arm.deb
 Size: 4184
-MD5sum: 8e123972ea7afbfe0a2f45abfead8dd2
-SHA1: 86ba14158ef960c744abb02c0e5f06cea5cee266
-SHA256: b2b971a58df6f345167ba3aeeb871eb84e28f86561b49a983a1224879ef45dd7
+MD5sum: 827532793810652dacce7e14bc05b3e5
+SHA1: ca3132a7bf5a76526e1abc69b35b3d54ab842ade
+SHA256: 46d9970fce743db5814c5df0262ad85f958607cfd5ee19ba37e9a24827374680
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -40,9 +40,9 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.dualsbadoption_1.0_iphoneos-arm.deb
 Size: 4388
-MD5sum: 825192849f7b5dac66245b06f516dea0
-SHA1: 02a9015d4b657b298a6da3261e0a57e8db2862a0
-SHA256: 0b53e5479448bd770a1a397c91dd599cef8688a262ba08bc0ef1eb8253ff5ca5
+MD5sum: 0f37a3e7f9ebe4ee8b065a27e7c6c442
+SHA1: f7962155ffa067f152cc7851f7b296498e03c4c4
+SHA256: 12028f80700258cf8e8e59cbc97b6fe2bd2d09f1217bf6782963a10f39275f9a
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -57,9 +57,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.stopastupidthief_1.4_iphoneos-arm.deb
 Size: 10004
-MD5sum: 581bbf9e24aa35cf604f3380f7aa9d3d
-SHA1: 8cda37c874c115a3d2e35fb874a23df79bd6175a
-SHA256: 24f633f127a48c9d81c7ac275a6a6fe75bcb446520e90a0135226ebddbbebd19
+MD5sum: d2860d6c3b742e66a10aa5587beee4b2
+SHA1: e6480ec9caea0ed91b1df61e1fd2a0a2d34d1de1
+SHA256: 7f6144abdd4ac6a429bb0990c4ab310aba2a31b2c4ae9142e81f2ae958c0d18c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -74,9 +74,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulbbtdisable_1.0_iphoneos-arm.deb
 Size: 6332
-MD5sum: 0d6c7b4dc2df51528e65459cff62d8c8
-SHA1: a0e44064be8bbec0c90315f5076f6dfe6fbdc969
-SHA256: 30883137092d9e47cc6f9170a38960797ee209c3f6362e331a0a56e584a08842
+MD5sum: f026098b4090a07dde1cd21d0630da0b
+SHA1: c34034a657397bff759233143283b19834ea0b05
+SHA256: f959d5ac0b117d15637ebe5dbfec0462fa7885d7857ec0df4da44b5a9ad97f78
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -84,16 +84,16 @@ Depiction: https://exoticswingset.github.io/depictions/TruthfulBTDisable.html
 Name: TruthfulBTDisable
 
 Package: com.exoticswingset.truthfuldock
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: ExoticSwingset
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.exoticswingset.truthfuldock_1.0_iphoneos-arm.deb
-Size: 7204
-MD5sum: 3a34c2bc1937529efe4c6dae0cf092e4
-SHA1: 59c293db6cee51528f5f8fab872e1bf852eadf8b
-SHA256: b26f86532d69e3d2111b5948fd8e5917afcc7591257a3e458dfc49b3db8a7870
+Filename: ./debs/com.exoticswingset.truthfuldock_2.0_iphoneos-arm.deb
+Size: 21988
+MD5sum: 7076e07845bfe534d7568b6b4b2e8839
+SHA1: f682373121299d4276f90ddc3f8ed19db47df9e6
+SHA256: 07cd6cb1d2927fde4a36bef5caf471afef40ef625d2703b373fd65490ce34ae0
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -108,9 +108,9 @@ Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulfolders_1.1_iphoneos-arm.deb
 Size: 9120
-MD5sum: 02ee746edd6056e1ee85a85dca20329c
-SHA1: 61e56707b3bf4048868dfd086ea6499aed9eedde
-SHA256: a76abfcb1e66401021335181da081fa44d01195a97916bc48ba96540c9dfe81a
+MD5sum: a7311733d1e82c28f546b95d3ae95936
+SHA1: 22620d9e4226049d5717cb91ccc047b846eef0f2
+SHA256: f759076807f999fead66f05cdc8d198e65457d90f6de3b6385908587166dee4b
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
@@ -125,9 +125,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.exoticswingset.truthfulwifidisable_1.0_iphoneos-arm.deb
 Size: 6006
-MD5sum: 0c0664b70f19d6500be2184fbaaa984e
-SHA1: 7e555f13ebe33753b4c6b359690ccd39213eda4c
-SHA256: 6ea0a998d3c8014da5ae582b795f3dd56c919d0749bf0d00d59953dd29538895
+MD5sum: 1a92dd2c98957eb904636f102db163c9
+SHA1: e448f2ffcbf23a4218da4708a4148e11c524eea6
+SHA256: 5d7e01901035504bec3d66a7473dfc18849769ff4db2c69da870b6cfa9467f84
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ExoticSwingset
